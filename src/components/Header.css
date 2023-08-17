@@ -1,0 +1,18 @@
+.popup-arrow {
+    color:var(--background3);
+}
+.form-control::placeholder {
+    color: #D2A163;
+  }
+  .no-outline:focus {
+    outline: 2px solid rgba(0, 0, 0, 0.2); 
+    box-shadow: none; 
+  }
+  
+  
+  .form-control:disabled:focus {
+    outline: 2px solid rgba(0, 0, 0, 0.1); 
+  }
+
+
+

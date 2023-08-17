@@ -1,0 +1,28 @@
+.form-check-input:checked {
+    background-color: var(--background2);
+    border-color:var(--borderColor);
+    
+    
+}
+
+.form-check-input{
+    background-color: #46392E;
+    color: var(--background2);
+     border: none;
+
+}
+.drafts{
+    margin-right: 10%;
+}
+.btnDelete :hover{
+    background-color: var(--background2);
+}
+/* .drafts :hover{
+    background-color:#100804;
+} */
+#exampleInputPassword1::placeholder{
+    color: #666;
+}
+
+
+

@@ -1,0 +1,19 @@
+.parent{
+    border-style: solid;
+    border-color: var(--borderColor);
+    padding: 5%;
+    
+}
+.personalcardText{
+    margin-top: 5%;
+    display: flex;
+    justify-content: space-between;
+  
+  }
+  .personalcardText2{
+    margin-top: 5%;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+ 
